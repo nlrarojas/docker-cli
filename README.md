@@ -1,4 +1,4 @@
-# CLI Docker image for Drupal
+# CLI Docker image for Drupal with PHP 7.3
 
 ## Includes
 
